@@ -1,6 +1,6 @@
 ### Hello, world. I'm Connor.
 
-I really really like writing code. 
+I enjoy writing code. 
 
 Welcome to my Github! Feel free to have a look around. You may also want to take a look at [my personal website](https://connorkeevill.com), or get in touch with me at [connor.keevill.19@gmail.com](mailto:connor.keevill.19@gmail.com).
 
